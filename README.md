@@ -36,5 +36,5 @@ Passionate about AI, Software Development & Building Projects
 ---
 
 ##  Connect with Me
-- LinkedIn: https://linkedin.com/in/shreydarshan
+- LinkedIn: www.linkedin.com/in/shrey-darshan-69431732a
 - GitHub: https://github.com/shreydarshan
