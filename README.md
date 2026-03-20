@@ -28,6 +28,18 @@ Passionate about AI, Software Development & Building Projects
 
 ---
 
+###  Smart Code Complexity Analyzer
+ Analyzes time complexity of code using intelligent techniques  
+🔗 https://github.com/shreydarshan/Smart-Code-Complexity-Analyzer  
+
+---
+
+###  Swarm Traffic Signal Simulation
+ Traffic control system using swarm intelligence and VIP prioritization  
+🔗 https://github.com/shreydarshan/swarm-traffic-signal-simulation
+
+---
+
 ##  Currently Learning
 - Machine Learning
 - Backend Development
@@ -38,3 +50,4 @@ Passionate about AI, Software Development & Building Projects
 ##  Connect with Me
 - LinkedIn: www.linkedin.com/in/shrey-darshan-69431732a
 - GitHub: https://github.com/shreydarshan
+- Portfolio: https://shreydarshan.github.io/portfolio/
