@@ -16,6 +16,20 @@ Passionate about AI, Software Development & Building Projects
 
 ##  Projects
 
+###  Anda Vyapar
+ Offline-first egg wholesaler business management system with billing, stock management, cloud sync, and thermal receipt printing.
+🔗https://github.com/shreydarshan/Anda-Vyapar
+
+---
+
+
+###  Swarm Traffic Signal Simulation
+ Traffic control system using swarm intelligence and VIP prioritization  
+🔗 https://github.com/shreydarshan/swarm-traffic-signal-simulation
+
+---
+
+
 ###  AI Resume Analyzer
  Analyzes resumes vs job descriptions using NLP  
 🔗 https://github.com/shreydarshan/AI-Resume-Analyzer  
@@ -34,11 +48,6 @@ Passionate about AI, Software Development & Building Projects
 
 ---
 
-###  Swarm Traffic Signal Simulation
- Traffic control system using swarm intelligence and VIP prioritization  
-🔗 https://github.com/shreydarshan/swarm-traffic-signal-simulation
-
----
 
 ##  Currently Learning
 - Machine Learning
